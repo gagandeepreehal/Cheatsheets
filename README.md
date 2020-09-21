@@ -1,2 +1,3 @@
-# Cheatsheets
-Quick reference material for techies
+# Tech Cheatsheets
+
+Quick reference material for technology enthusiasts.
