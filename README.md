@@ -1,4 +1,4 @@
-# Technology Cheatsheets
+# Awesome Tech Cheatsheets
 
 Quick reference material for Technology Enthusiasts.
 
