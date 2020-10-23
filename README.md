@@ -1,4 +1,5 @@
-# Awesome Tech Cheatsheets
+# Awesome Tech Cheatsheets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 Quick reference material for Technology Enthusiasts.
 
